@@ -6,4 +6,4 @@ with open('input.txt', 'r') as file:
 # 寫入文件
 with open('output.txt', 'w') as file:
     file.write("這是寫入的新內容。")
-    print("內容已寫入output.txt")s
+    print("內容已寫入output.txt")s123
